@@ -1,0 +1,7 @@
+E:\Projects\Contacts\Contacts\bin\Debug\Contacts.exe.config
+E:\Projects\Contacts\Contacts\obj\Debug\Contacts.Properties.Resources.resources
+E:\Projects\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
+E:\Projects\Contacts\Contacts\bin\Debug\Contacts.exe
+E:\Projects\Contacts\Contacts\bin\Debug\Contacts.pdb
+E:\Projects\Contacts\Contacts\obj\Debug\Contacts.exe
+E:\Projects\Contacts\Contacts\obj\Debug\Contacts.pdb
